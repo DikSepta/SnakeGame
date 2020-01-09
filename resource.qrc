@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="head.png">head.png</file>
+        <file alias="target.png">target.png</file>
+        <file alias="body.png">body.png</file>
+    </qresource>
+</RCC>
